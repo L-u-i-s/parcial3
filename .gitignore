@@ -1,0 +1,8 @@
+
+bower_components/
+
+*.log
+
+*.lock
+
+vendor/
